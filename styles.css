@@ -1,3 +1,13 @@
 h1{
     color: blue;
 }
+
+body{
+    background-color: #1f1f1f;
+}
+
+button{
+    background-color:transparent;
+    color:aliceblue;
+    border:0ch;
+}
