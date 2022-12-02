@@ -1,5 +1,9 @@
-h1{
-    color: blue;
+header{
+    padding: 30.5px 91.5px;
+}
+
+ul{
+    padding-inline-start: 0px;
 }
 
 body{
@@ -10,4 +14,29 @@ button{
     background-color:transparent;
     color:aliceblue;
     border:0ch;
+    font-size: 15px;
+    font-family:input-mono, monospace; 
+}
+
+button:hover{
+    color:rgb(17, 39, 240);
+    font-weight:600;
+    font-size:20px ;
+    text-decoration:overline; 
+}
+
+.navigation-menu{
+    display:flex;
+    flex-wrap:wrap;
+    flex-direction:row;
+    justify-content:space-between;
+}
+
+h1{
+    color: aliceblue;
+    top: 50%;
+    bottom: 50%;
+    text-align: center;
+    transform: translate(50%, -50%);
+    position: absolute;
 }
