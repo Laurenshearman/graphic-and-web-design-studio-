@@ -155,10 +155,19 @@ p{
     font-size: 20px;
     height: 90px;
     color: white;
-   /*border: 1px dashed burlywood;*/
+    color: white;
+    text-align: left;
+    width: 500px
  
 }
 
 .type_item{
     padding: 0 30px;
+}
+
+.html_text{
+    color: white;
+    text-align: center;
+    width: 200px;
+
 }
