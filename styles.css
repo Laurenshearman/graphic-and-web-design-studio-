@@ -2,6 +2,18 @@ header{
     padding: 30.5px 91.5px;
 }
 
+.h3{
+    font-family: anchor-web, sans-serif;
+}
+
+.h4{
+    font-family: anchor-web, sans-serif;
+}
+
+.h5{
+    font-family: anchor-web, sans-serif;
+}
+
 ul{
     padding-inline-start: 0px;
 }
@@ -66,14 +78,17 @@ h2{
 
 h3{
     color: white;
+    font-family: anchor-web, sans-serif;
 }
 
 h4{
     color: white;
+    font-family: anchor-web, sans-serif;
 }
 
 h5{
     color: white;
+    font-family: anchor-web, sans-serif;
 }
 p{
     color:azure;
@@ -131,6 +146,7 @@ p{
     color: white;
     text-align: left;
     width: 200px;
+    font-family: anchor-web, sans-serif;
 }
 
 .exports-container{
@@ -161,8 +177,8 @@ p{
     color: white;
     color: white;
     text-align: left;
-    width: 500px
- 
+    width: 500px;
+    font-family: anchor-web, sans-serif;
 }
 
 .type_item{
